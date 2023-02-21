@@ -13,7 +13,6 @@ export function App() {
   return (
     <main>
       <button onClick={clickHandler}>Click</button>
-      <button>Theme</button>
       <h1>{fact}</h1>
       <img
         src={imageUrl}
